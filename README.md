@@ -1,5 +1,4 @@
-# data_science_muscle_hub_ab_testing
-EDA and hypothesis testing of Muscle Hub Data
+Muscle Hub EDA and Hypothesis Testing
 
 Muscle Hub is a fictional fitness business that has collected data on it's gym members
 and prospective gym members.
