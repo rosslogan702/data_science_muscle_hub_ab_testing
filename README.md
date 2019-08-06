@@ -8,3 +8,5 @@ the testing of a number of hypothesis on the gym member acquisition funnel.
 
 Hypotheses are formed and tested using the scipy library and also includes a summary of the acquisition
 funnel at the end.
+
+The analysis can be found in the file: data_science_muscle_hub_ab_testing/musclehub.ipynb
